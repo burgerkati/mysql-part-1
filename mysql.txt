@@ -1,3 +1,5 @@
+mysql-part-1 exercises
+
 exercice 1
 
 CREATE DATABASE `languages`;
