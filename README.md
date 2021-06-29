@@ -1,4 +1,4 @@
-## mysql-part-1 (exercices)[https://github.com/HedyKatherine/SQL/blob/master/partie1.md]
+## mysql-part-1 (https://github.com/HedyKatherine/SQL/blob/master/partie1.md)[exercices]
 
 ### exercice 1
 Créer une base de données languages
